@@ -72,7 +72,29 @@ Khi đang học một bài và gặp một khái niệm không hiểu, học vi�
 
 Nếu phần lớn người học chỉ cần một cách giải thích khác, tự xử lý rất nhanh hoặc không coi việc bị kẹt là vấn đề đáng kể, giả thuyết về thiếu kiến thức nền cần được sửa.
 
----
+### Evidence Map
+
+| Cần kiểm tra | Evidence làm nhóm tin hơn | Evidence làm nhóm nghi ngờ hoặc bác bỏ |
+|---|---|---|
+| Situation có thật | User kể được một lần gần đây bị kẹt khi học với trình tự cụ thể | User không nhớ được tình huống cụ thể hoặc tình huống xảy ra rất hiếm |
+| Pain có ý nghĩa | User phải dừng bài, đổi nguồn, mất nhiều thời gian hoặc ảnh hưởng tiến độ học | User xử lý rất nhanh và không thấy ảnh hưởng đáng kể |
+| Workaround tồn tại | User đọc lại bài, tìm Google, YouTube, hỏi ChatGPT, hỏi bạn hoặc mentor | User gần như không cần dùng cách hỗ trợ nào khác |
+| Consequence tồn tại | User mất thời gian, mất mạch học, bỏ qua nội dung hoặc trì hoãn việc học | Tình huống không tạo ra hậu quả đáng kể |
+| Pattern có lặp | User kể được nhiều lần tương tự gần đây | Đây chỉ là một trường hợp hiếm hoặc cá biệt |
+
+### Big 3 — Ba điều quan trọng nhất cần học
+
+| Điều cần học | Evidence cần tìm | Điều gì khiến nhóm xem lại giả thuyết? |
+|---|---|---|
+| 1. Người học có thật sự gặp tình huống bị kẹt trong một bài gần đây không? | Một sự kiện cụ thể trong 7 ngày gần đây | Không có sự kiện cụ thể hoặc tình huống rất hiếm |
+| 2. Khi bị kẹt, người học thực sự đã làm gì? | Chuỗi hành động, nguồn, công cụ và workaround đã sử dụng | User xử lý gần như ngay lập tức mà không tốn công |
+| 3. Nguyên nhân của việc bị kẹt là gì và hậu quả có đáng kể không? | Nguyên nhân user tự mô tả, thời gian bỏ ra và ảnh hưởng tới việc tiếp tục học | Nguyên nhân chủ yếu chỉ là cách diễn đạt chưa phù hợp hoặc đây chỉ là bất tiện nhỏ |
+
+### Câu hỏi đáng sợ
+
+Điều gì sẽ xảy ra nếu người học thực tế không bị kẹt vì thiếu kiến thức nền, mà chỉ cần một cách giải thích khác phù hợp hơn?
+
+Nếu evidence cho thấy điều này lặp lại ở nhiều interview, nhóm cần xem lại Pain Hypothesis A và có thể chuyển trọng tâm sang Pain Hypothesis B.
 
 ## 3. Conversation Guide - Final Version
 

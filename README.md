@@ -104,7 +104,83 @@ Sẽ được cập nhật sau khi hoàn thành practice interview.
 
 ## 4. Practice Reflection
 
-Sẽ được cập nhật sau khi hoàn thành practice interview.
+**1. Câu hỏi nào đã giúp user kể một tình huống cụ thể?**
+
+Câu hỏi “Bạn có thể kể lần gần nhất bạn gặp một phần không hiểu và bạn đã giải quyết nó như thế nào?” giúp người tham gia bắt đầu mô tả hành vi thực tế. Từ đó, người tham gia cho biết họ chụp ảnh phần slide không hiểu, gửi sang AI bên ngoài và yêu cầu giải thích hoặc tạo lộ trình kiến thức.
+
+Các câu hỏi về thời gian như “Quá trình đó thường mất khoảng bao nhiêu thời gian?” cũng giúp làm rõ consequence. Người tham gia cho biết nội dung đơn giản có thể mất khoảng 5–10 phút, trong khi nội dung phức tạp có thể mất vài tiếng và phải xem lại sau.
+
+**2. Chỗ nào mình cần làm tốt hơn ở lần phỏng vấn thật?**
+
+Tôi chưa giữ cuộc phỏng vấn tập trung đủ lâu vào một sự kiện cụ thể. Sau khi người tham gia bắt đầu kể, tôi nên tiếp tục hỏi theo trình tự “sau đó chuyện gì xảy ra?” thay vì chuyển sang các tình huống chung khác.
+
+Ngoài ra, câu hỏi “Theo bạn nền tảng hiện tại có cách nào có thể phát triển để giúp bạn giải quyết việc hiểu bài nhanh hơn không?” đã chuyển từ problem interview sang hỏi ý tưởng solution. Điều này khiến người tham gia bắt đầu đề xuất một nút và cách AI nên hoạt động, trong khi mục tiêu của bài là tìm evidence về problem chứ không phải thiết kế feature.
+
+Trong lần phỏng vấn thật, tôi sẽ tránh hỏi user nên xây tính năng gì và thay bằng các câu hỏi về cách họ đang xử lý vấn đề hiện tại.
+
+**3. Sau khi luyện, nhóm đã sửa Conversation Guide ở đâu và vì sao?**
+
+Nhóm sửa Conversation Guide theo ba hướng:
+
+- Neo mạnh hơn vào một sự kiện gần nhất thay vì hỏi về hành vi chung.
+- Thêm các câu follow-up theo trình tự hành động như “Sau đó chuyện gì xảy ra?” và “Bạn làm gì tiếp theo?”.
+- Loại bỏ các câu hỏi yêu cầu user đề xuất solution hoặc đánh giá feature.
+
+Nhóm cũng bổ sung câu hỏi để kiểm tra giả thuyết cạnh tranh: người học bị kẹt vì thiếu kiến thức nền, vì cách giải thích chưa phù hợp hay vì một nguyên nhân khác.
+
+Mục tiêu của các thay đổi này là giữ cuộc phỏng vấn tập trung vào behavior, workaround và consequence đã thực sự xảy ra.### Practice Reflection
+
+**1. Câu hỏi nào đã giúp user kể một tình huống cụ thể?**
+
+Câu hỏi “Bạn có thể kể lần gần nhất bạn gặp một phần không hiểu và bạn đã giải quyết nó như thế nào?” giúp người tham gia bắt đầu mô tả hành vi thực tế. Từ đó, người tham gia cho biết họ chụp ảnh phần slide không hiểu, gửi sang AI bên ngoài và yêu cầu giải thích hoặc tạo lộ trình kiến thức.
+
+Các câu hỏi về thời gian như “Quá trình đó thường mất khoảng bao nhiêu thời gian?” cũng giúp làm rõ consequence. Người tham gia cho biết nội dung đơn giản có thể mất khoảng 5–10 phút, trong khi nội dung phức tạp có thể mất vài tiếng và phải xem lại sau.
+
+**2. Chỗ nào mình cần làm tốt hơn ở lần phỏng vấn thật?**
+
+Tôi chưa giữ cuộc phỏng vấn tập trung đủ lâu vào một sự kiện cụ thể. Sau khi người tham gia bắt đầu kể, tôi nên tiếp tục hỏi theo trình tự “sau đó chuyện gì xảy ra?” thay vì chuyển sang các tình huống chung khác.
+
+Ngoài ra, câu hỏi “Theo bạn nền tảng hiện tại có cách nào có thể phát triển để giúp bạn giải quyết việc hiểu bài nhanh hơn không?” đã chuyển từ problem interview sang hỏi ý tưởng solution. Điều này khiến người tham gia bắt đầu đề xuất một nút và cách AI nên hoạt động, trong khi mục tiêu của bài là tìm evidence về problem chứ không phải thiết kế feature.
+
+Trong lần phỏng vấn thật, tôi sẽ tránh hỏi user nên xây tính năng gì và thay bằng các câu hỏi về cách họ đang xử lý vấn đề hiện tại.
+
+**3. Sau khi luyện, nhóm đã sửa Conversation Guide ở đâu và vì sao?**
+
+Nhóm sửa Conversation Guide theo ba hướng:
+
+- Neo mạnh hơn vào một sự kiện gần nhất thay vì hỏi về hành vi chung.
+- Thêm các câu follow-up theo trình tự hành động như “Sau đó chuyện gì xảy ra?” và “Bạn làm gì tiếp theo?”.
+- Loại bỏ các câu hỏi yêu cầu user đề xuất solution hoặc đánh giá feature.
+
+Nhóm cũng bổ sung câu hỏi để kiểm tra giả thuyết cạnh tranh: người học bị kẹt vì thiếu kiến thức nền, vì cách giải thích chưa phù hợp hay vì một nguyên nhân khác.
+
+Mục tiêu của các thay đổi này là giữ cuộc phỏng vấn tập trung vào behavior, workaround và consequence đã thực sự xảy ra.
+
+**1. Câu hỏi nào đã giúp user kể một tình huống cụ thể?**
+
+Câu hỏi “Bạn có thể kể lần gần nhất bạn gặp một phần không hiểu và bạn đã giải quyết nó như thế nào?” giúp người tham gia bắt đầu mô tả hành vi thực tế. Từ đó, người tham gia cho biết họ chụp ảnh phần slide không hiểu, gửi sang AI bên ngoài và yêu cầu giải thích hoặc tạo lộ trình kiến thức.
+
+Các câu hỏi về thời gian như “Quá trình đó thường mất khoảng bao nhiêu thời gian?” cũng giúp làm rõ consequence. Người tham gia cho biết nội dung đơn giản có thể mất khoảng 5–10 phút, trong khi nội dung phức tạp có thể mất vài tiếng và phải xem lại sau.
+
+**2. Chỗ nào mình cần làm tốt hơn ở lần phỏng vấn thật?**
+
+Tôi chưa giữ cuộc phỏng vấn tập trung đủ lâu vào một sự kiện cụ thể. Sau khi người tham gia bắt đầu kể, tôi nên tiếp tục hỏi theo trình tự “sau đó chuyện gì xảy ra?” thay vì chuyển sang các tình huống chung khác.
+
+Ngoài ra, câu hỏi “Theo bạn nền tảng hiện tại có cách nào có thể phát triển để giúp bạn giải quyết việc hiểu bài nhanh hơn không?” đã chuyển từ problem interview sang hỏi ý tưởng solution. Điều này khiến người tham gia bắt đầu đề xuất một nút và cách AI nên hoạt động, trong khi mục tiêu của bài là tìm evidence về problem chứ không phải thiết kế feature.
+
+Trong lần phỏng vấn thật, tôi sẽ tránh hỏi user nên xây tính năng gì và thay bằng các câu hỏi về cách họ đang xử lý vấn đề hiện tại.
+
+**3. Sau khi luyện, nhóm đã sửa Conversation Guide ở đâu và vì sao?**
+
+Nhóm sửa Conversation Guide theo ba hướng:
+
+- Neo mạnh hơn vào một sự kiện gần nhất thay vì hỏi về hành vi chung.
+- Thêm các câu follow-up theo trình tự hành động như “Sau đó chuyện gì xảy ra?” và “Bạn làm gì tiếp theo?”.
+- Loại bỏ các câu hỏi yêu cầu user đề xuất solution hoặc đánh giá feature.
+
+Nhóm cũng bổ sung câu hỏi để kiểm tra giả thuyết cạnh tranh: người học bị kẹt vì thiếu kiến thức nền, vì cách giải thích chưa phù hợp hay vì một nguyên nhân khác.
+
+Mục tiêu của các thay đổi này là giữ cuộc phỏng vấn tập trung vào behavior, workaround và consequence đã thực sự xảy ra.
 
 ---
 

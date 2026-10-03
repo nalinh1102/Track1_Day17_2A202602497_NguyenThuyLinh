@@ -4,11 +4,11 @@
 
 - MHV: 2A202602497
 - Họ và tên: Nguyễn Thùy Linh
-- Tên nhóm: [Điền tên nhóm]
+- Tên nhóm: Matcha
 - Thành viên:
-  - [Thành viên 1]
-  - [Thành viên 2]
-  - [Thành viên 3]
+Trần Thị Thuý - 2A202602960
+Lê Thị Duyên - 2A202602411
+Nguyễn Thùy Linh - 2A202602497
 - Case đã chọn: Case A — AI Tutor: Diagnostic Refresher
 
 ---
